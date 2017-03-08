@@ -29,6 +29,8 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter{
 	 * configure the builder to use BCrypt Password Encoding technique provided by 
 	 * Spring via {@link BCryptPasswordEncoder}.
 	 * 
+	 * 
+	 * 
 	 * @param authenticationManagerBuilder Spring's authentication manager injected
 	 * @throws Exception
 	 */
