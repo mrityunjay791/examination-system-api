@@ -30,7 +30,6 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter{
 	 * Spring via {@link BCryptPasswordEncoder}.
 	 * 
 	 * 
-	 * 
 	 * @param authenticationManagerBuilder Spring's authentication manager injected
 	 * @throws Exception
 	 */
